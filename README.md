@@ -1,4 +1,4 @@
-### Howdy - Welcome to ATNJQT's GitHub 🤠 🦾 👋
+### Howdy - Welcome to my GitHub 🤠 🦾 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=atnjqt&count_private=true&theme=blue-green&show_icons=true)
 
