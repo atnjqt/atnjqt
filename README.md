@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on integrationg Open-WebUI with various LLM providers (PublicAI, AWS Bedrock, LiteLLM, Ollama, etc)
 - 🌱 I’m currently learning about applying ethical AI to problems of legal corpus linguistics, debates in administrative law, and identifying populist rhetoric
-- 📫 How to reach me: [via email](mailto: jacquot.etienne@gmail.com)
+- 📫 How to reach me: jacquot.etienne@gmail.com
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: I love running in the summer, snowboarding in the winter, all things open source, and DJ'ing vinyl records
+- ⚡ Fun fact: I love running in the summer, snowboarding in the winter, all things open source, and performning DJ b2b vinyl sets
